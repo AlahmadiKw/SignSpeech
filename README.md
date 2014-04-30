@@ -3,6 +3,6 @@ SignSpeech
 
 Final Project EEM202A Embedded Systems Winter 2014
 
-## Authors: 
+## Authors
 
-Namseok Kim and Mohammad Mohammad 
+Mohammad Mohammad and Oliver Fang
